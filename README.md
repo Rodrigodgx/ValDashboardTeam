@@ -1,4 +1,4 @@
-# 📊 Analisador de Partidas de Valorant
+# 📊 DashBoard de Partidas de Valorant
 
 Bem-vindo ao Analisador de Partidas de Valorant! Esta é uma aplicação desenvolvida com Streamlit que permite gerar um dashboard interativo e detalhado sobre o desempenho do seu time, utilizando as suas próprias anotações de partidas.
 
